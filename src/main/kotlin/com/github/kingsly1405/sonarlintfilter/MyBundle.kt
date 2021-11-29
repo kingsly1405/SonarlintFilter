@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.kingsly1405.sonarlintfilter
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
